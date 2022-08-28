@@ -1,0 +1,30 @@
+{
+  "name": "tahvel",
+  "version": "1.0.0",
+  "description": "Tools for tahvel-eesti system",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klarulor/tahvel.git"
+  },
+  "author": "klarulor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Klarulor/tahvel/issues"
+  },
+  "homepage": "https://github.com/Klarulor/tahvel#readme",
+  "keywords": [
+    "tahvel",
+    "estonia",
+    "eesti",
+    "eesti-haridus",
+    "haridus"
+  ],
+  "dependencies": {
+    "@types/node": "^18.7.13",
+    "node-fetch": "^2.6.7"
+  }
+}
