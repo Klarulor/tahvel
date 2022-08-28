@@ -25,47 +25,47 @@ const GROUP_NAME = "JPTV22"; // You basically school group id
 
 ### Estonian school list
 
-| ID | School name                                |
-| -- | ------------------------------------------ |
-| 1  | Tallinna Kopli Ametikool                   |
-| 2  | Hiiumaa Ametikool                          |
-| 3  | Estonian Business School                   |
-| 4  | Räpina Aianduskool                         |
-| 5  | Olustvere Teenindus- ja Maamajanduskool    |
-| 6  | Tartu Tervishoiu Kõrgkool                  |
-| 7  | Järvamaa Kutsehariduskeskus                |
-| 8  | Ida-Virumaa Kutsehariduskeskus             |
-| 9  | Viljandi Kutseõppekeskus                   |
-| 11 | Tallinna Tööstushariduskeskus              |
-| 12 | Pärnu Saksa Tehnoloogiakool                |
-| 13 | Tartu Kunstikool                           |
-| 14 | Tallinna Polütehnikum                      |
-| 15 | Valgamaa Kutseõppekeskus                   |
-| 16 | Eesti EKB Liit Kõrgem Usuteaduslik Seminar |
-| 17 | Tallinna Tehnikakõrgkool                   |
-| 18 | Eesti Merekool                             |
-| 19 | Võrumaa Kutsehariduskeskus                 |
-| 20 | EELK Usuteaduse Instituut                  |
-| 21 | Kõrgem Kunstikool Pallas                   |
-| 22 | Eesti Metodisti Kiriku Teoloogiline Seminar|
-| 23 | Eesti Lennuakadeemia                       |
-| 24 | Tallinna Lasnamäe Mehaanikakool            |
-| 25 | Tallinna Muusika- ja Balletikool           |
-| 26 | Sisekaitseakadeemia                        |
-| 27 | Vana-Vigala Tehnika- ja Teeninduskool      |
-| 28 | Luua Metsanduskool                         |
-| 31 | Eesti Kunstiakadeemia                      |
-| 32 | Tallinna Majanduskool                      |
-| 33 | Kehtna Kutsehariduskeskus                  |
-| 35 | Tallinna Tervishoiu Kõrgkool               |
-| 36 | Haapsalu Kutsehariduskeskus                |
-| 37 | Pärnumaa Kutsehariduskeskus                |
-| 38 | Kuressaare Ametikool                       |
-| 39 | Tallinna Ehituskool                        |
-| 40 | Tallinna Teeninduskool                     |
-| 41 | Rakvere Ametikool                          |
-| 42 | Astangu Kutserehabilitatsiooni Keskus      |
-| 43 | Heino Elleri Muusikakool                   |
-| 44 | Kaitseväe Akadeemia                        |
-| 45 | Eesti Kaitsevägi                           |
-| 46 | Eesti Massaaži- ja Teraapiakool            |
+| ID | School code  | School name                                |
+| -- | ------------ | ------------------------------------------ |
+| 1  | TKAK         | Tallinna Kopli Ametikool                   |
+| 2  | HAK          | Hiiumaa Ametikool                          |
+| 3  | EBS          | Estonian Business School                   |
+| 4  | RAK          | Räpina Aianduskool                         |
+| 5  | Olustvere    | Olustvere Teenindus- ja Maamajanduskool    |
+| 6  | Nooruse      | Tartu Tervishoiu Kõrgkool                  |
+| 7  | JKHK         | Järvamaa Kutsehariduskeskus                |
+| 8  | IVKHK        | Ida-Virumaa Kutsehariduskeskus             |
+| 9  | VIKK         | Viljandi Kutseõppekeskus                   |
+| 11 | TTHK         | Tallinna Tööstushariduskeskus              |
+| 12 | SAKSATK      | Pärnu Saksa Tehnoloogiakool                |
+| 13 | TK           | Tartu Kunstikool                           |
+| 14 | TPT          | Tallinna Polütehnikum                      |
+| 15 | VKOK         | Valgamaa Kutseõppekeskus                   |
+| 16 | KUS          | Eesti EKB Liit Kõrgem Usuteaduslik Seminar |
+| 17 | TKTK         | Tallinna Tehnikakõrgkool                   |
+| 18 | MereK        | Eesti Merekool                             |
+| 19 | VKHK         | Võrumaa Kutsehariduskeskus                 |
+| 20 | EELK         | EELK Usuteaduse Instituut                  |
+| 21 | Pallas       | Kõrgem Kunstikool Pallas                   |
+| 22 | EMKTS        | Eesti Metodisti Kiriku Teoloogiline Seminar|
+| 23 | EAVA         | Eesti Lennuakadeemia                       |
+| 24 | TLMK         | Tallinna Lasnamäe Mehaanikakool            |
+| 25 | MUBA         | Tallinna Muusika- ja Balletikool           |
+| 26 | SKA          | Sisekaitseakadeemia                        |
+| 27 | VVTTK        | Vana-Vigala Tehnika- ja Teeninduskool      |
+| 28 | LUUA         | Luua Metsanduskool                         |
+| 31 | EKA          | Eesti Kunstiakadeemia                      |
+| 32 | TMK          | Tallinna Majanduskool                      |
+| 33 | KehtnaKHK    | Kehtna Kutsehariduskeskus                  |
+| 35 | TTK          | Tallinna Tervishoiu Kõrgkool               |
+| 36 | HKHK         | Haapsalu Kutsehariduskeskus                |
+| 37 | PKHK         | Pärnumaa Kutsehariduskeskus                |
+| 38 | Ametikool    | Kuressaare Ametikool                       |
+| 39 | TEK          | Tallinna Ehituskool                        |
+| 40 | TEKO         | Tallinna Teeninduskool                     |
+| 41 | RAM          | Rakvere Ametikool                          |
+| 42 | AKRK         | Astangu Kutserehabilitatsiooni Keskus      |
+| 43 | HEMK         | Heino Elleri Muusikakool                   |
+| 44 | KVA          | Kaitseväe Akadeemia                        |
+| 45 | MIL          | Eesti Kaitsevägi                           |
+| 46 | EMTK         | Eesti Massaaži- ja Teraapiakool            |
