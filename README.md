@@ -1,6 +1,5 @@
 # Tahvel api gateway
-`
-Tahvli kasutamiseks on vajalik sisse logida kas ID-kaardi, mobiil-ID, pangalingi kaudu (valik "TARA"), mis võimaldab ka SmartID kasutamist või HarID kasutajanime ja parooliga.
+`Tahvli kasutamiseks on vajalik sisse logida kas ID-kaardi, mobiil-ID, pangalingi kaudu (valik "TARA"), mis võimaldab ka SmartID kasutamist või HarID kasutajanime ja parooliga.
 `
 
 ## Installation
